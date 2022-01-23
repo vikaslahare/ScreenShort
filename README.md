@@ -9,7 +9,7 @@
 **ScreenShort 2**
 
 
-<img src="image/screenshort1.PNG" width="400">
+<img src="image/ScreenShort01.PNG" width="400">
 
 
 **[Follow me on Instagram](https://instagram.com/__vikas__05)**

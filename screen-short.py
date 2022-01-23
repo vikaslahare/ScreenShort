@@ -17,6 +17,9 @@ root = tk.Tk()
 # create application title
 root.title('ScreenShort')
 
+greeting= tk.Label(root, text="Made by vikas lahare", font=100, bg="darkgrey")
+greeting.pack()
+
 
 # create Social Links labels
 def callback(url):
